@@ -1,0 +1,6 @@
+{
+  "name": "Heaven Furniture Mart",
+  "description": "Luxury bespoke furniture & interior styling based in Agrabad Access Road, Chattogram. Hand-crafted, custom-built furniture tailored to your living space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
