@@ -52,12 +52,13 @@ export const QuoteModal: React.FC<QuoteModalProps> = ({
 
   if (!isOpen) return null;
 
-  const handleSubmit = (e: React.FormEvent) => {
+    const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setSubmitting(true);
     setTimeout(() => {
       setSubmitting(false);
       setIsSubmitted(true);
+      handleWhatsAppDirect();
     }, 600);
   };
 
