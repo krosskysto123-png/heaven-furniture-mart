@@ -77,7 +77,7 @@ export const COLLECTIONS_DATA: CollectionItem[] = [
     shortDesc: "Low-profile upholstered headboard integrated into continuous fluted wood paneling with soft-close cantilevered nightstands.",
     materials: ["Solid Chittagong Gamari", "Nubuck Microfiber", "Warm Dimmable LED channels"],
     dimensions: "King (84\" W × 88\" L) / Queen Available",
-    imageUrl: "imageUrl:"/assets/bedroom.jpg",
+    imageUrl: "/assets/bedroom.jpg",
     featureNote: "Bedroom"
   },
   {
