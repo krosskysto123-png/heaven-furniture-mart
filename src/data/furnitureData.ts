@@ -8,7 +8,7 @@ export const BRAND_DETAILS = {
   foundingYear: "2020",
   locationName: "Agrabad Access Road, Chattogram",
   fullAddress: "Agrabad Access Road (Near Badamtoli Moor / Commercial Zone), Chattogram 4100, Bangladesh",
-     phone: "+880 1960-481983",
+  phone: "+880 1960-481983",
   phoneDisplay: "+880 1960-481983",
   whatsappNumber: "8801960481983",
   email: "heavenfurnituremart@gmail.com",
